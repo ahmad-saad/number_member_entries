@@ -9,5 +9,5 @@ Usage
 
 {exp:number_member_entries:count status="open|closed" member_id="1" channels="1|2"}<br>
 If status is empty - search only in entries with open status<br>
-If channels is empty - search in all channels<br>
+If channels is empty - search in all channels - you can use channel ids or short names- (added by Ahmad Saad)<br>
 If member_id is empty - search in current member entries
